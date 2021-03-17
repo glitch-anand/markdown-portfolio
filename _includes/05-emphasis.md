@@ -8,14 +8,14 @@ _POP QUIZ TIME_
   UNICORN 🦄
   </details>
 
-**Where in the body is blood produced? **
+<strong>Where in the body is blood produced? </strong>
 <details>
   <summary>Click here for the answer</summary>
   
   THE BONES ☠️
   </details>
   
-  **What is the technical name for the hashtag symbol?**
+  <strong>What is the technical name for the hashtag symbol?</strong>
 <details>
   <summary>Click here for the answer</summary>
   

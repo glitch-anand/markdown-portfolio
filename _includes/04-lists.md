@@ -2,8 +2,6 @@
   
 <summary> Click here 🖱️ to find out some books that I .❤️ </summary>
   
-BOOKS 
-  
 * ⭐Metamorphosis by Franz Kafka 📖 
   * ▶️ One of Kafka's best-known works, The Metamorphosis tells the story of salesman Gregor Samsa who wakes one morning to find himself inexplicably transformed into a huge insect     (German ungeheures Ungeziefer, literally "monstrous vermin"), subsequently struggling to adjust to this new condition. 
       

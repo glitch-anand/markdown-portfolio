@@ -1,5 +1,5 @@
 <details>
-  <summary>**Click to find out some books that I ❤️**</summary>
+  <summary>Click to find out some books that I ❤️</summary>
   
   ## BOOKS
   

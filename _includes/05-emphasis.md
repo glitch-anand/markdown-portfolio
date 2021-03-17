@@ -1,6 +1,6 @@
 _POP QUIZ TIME_
 
-**What is the national animal of Scotland? **
+<strong>What is the national animal of Scotland? </strong>
 
 <details>
   <summary>Click here for the answer</summary>
